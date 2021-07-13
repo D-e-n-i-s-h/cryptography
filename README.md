@@ -1,2 +1,2 @@
-# cryptography
-practicing cipher
+# Cryptography
+Practicing Cipher
